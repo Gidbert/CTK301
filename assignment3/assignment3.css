@@ -1,0 +1,61 @@
+/* This is a style sheet for assignment 3 */
+
+.hone {
+    color: white;
+    background-color: black;
+}
+
+.twoh {
+    color: red;
+    background-color: darkgreen;
+}
+
+.threeh {
+    color: aqua;
+    background-color: orange;
+}
+
+.fourh {
+    color: white;
+    background-color: red;
+}
+
+.footerh {
+    color: pink;
+    background-color: purple;
+}
+
+.text {
+    color: blue;
+    background-color: black;
+}
+
+#redtext {
+    color: red;
+    background-color: blue;
+}
+
+a:link {
+    color: red;
+}
+
+a:hover {
+    color: yellow;
+}
+/* Hover only works on incognito. Why?*/
+
+a:visited {
+    color: green;
+}
+
+a:active {
+    color: orange;
+}
+
+#divexample {
+    color: blueviolet;
+}
+
+.spanstyle {
+    background-color: chartreuse;
+}
