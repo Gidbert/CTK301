@@ -1,0 +1,27 @@
+#liblue{
+    background-color: mediumslateblue;
+}
+
+#white{
+    color: white;
+}
+
+#blue{
+    color: blue;
+}
+
+a{
+    color: green;
+}
+
+#yellowbold{
+    color: orange;
+}
+
+.yellowback{
+    background-color: yellow;
+}
+
+#red{
+    color: red;
+}
