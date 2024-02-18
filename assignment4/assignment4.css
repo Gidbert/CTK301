@@ -1,0 +1,28 @@
+/*assignment 4 stylings*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+    background-image: url(ThisIsFine.jpg);
+}
+
+.centeralign {
+    text-align: center;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.CSS7 {
+    color: orange;
+    font-style: italic;
+    font-weight: normal; 
+}
+
+ 
+.imgbox {
+        border: 30px solid black;
+        padding: 10px;
+        background-color: yellow;
+    }
