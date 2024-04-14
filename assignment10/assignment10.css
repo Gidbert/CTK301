@@ -41,11 +41,13 @@ nav li a {
   color: white;
   text-decoration: none;
   padding: 24px;
+  transition: text-decoration 1.0s, text-shadow 1.0s;
 }
 
 nav li a:hover {
   text-decoration: underline;
   text-decoration-color: orange;
+  text-shadow: 2px 2px 2px #000;
 }
 
 #mainimg {
@@ -125,4 +127,10 @@ section h2 {
   text-align: justify;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
