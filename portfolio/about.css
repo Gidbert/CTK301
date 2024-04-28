@@ -120,22 +120,3 @@ main {
   font-weight: 700;
   font-style: normal;
 }
-
-/* Carousel thing */
-
-#myCarousel {
-  margin-bottom: 48px;
-  border: 1px solid green;
-}
-
-body img{
-  width: 100%;
-}
-
-#myCarousel .f-carousel__slide {
-  text-align: center;
-  padding: 100px;
-  background: blueviolet;
-}
-
-/* Carousel thing */
